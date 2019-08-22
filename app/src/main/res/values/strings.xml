@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">usjt_ads3anmca_navegacao_telas_simples</string>
+    <string name="dica_mensagem">Digite a sua mensagem</string>
+    <string name="enviar">Enviar</string>
+    <string name="teste_botao">Botão foi tocado...</string>
+</resources>
